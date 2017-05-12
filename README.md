@@ -10,3 +10,5 @@ Geometry绘制：点、线、面；
 Overlay测试，全球网格测试；
 控制avatar的上下左右移动；
 切换地图。
+
+使用ActiveX技术，加载OSG在网页
